@@ -10,5 +10,5 @@ if value <= smallest_value
   smallest_key = key
  end
  end
- smallest_value
+ smallest_key
 end
